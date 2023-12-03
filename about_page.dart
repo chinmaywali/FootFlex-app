@@ -49,7 +49,7 @@ class AboutPage extends StatelessWidget {
 
             SizedBox(height: 5),
             Text(
-              'Email: chinmaywali019@example.com',
+              'Email: chinmaywali019@gmail.com',
               style: TextStyle(
                 fontSize: 16,
               ),
