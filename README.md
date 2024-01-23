@@ -46,24 +46,9 @@ This app enables users to organize, explore, and purchase a diverse range of sho
 - User-friendly functionalities.
 
 ---
-  
-## Installation⚙️
-
-1. Clone the repository: `git clone https://github.com/chinmaywali/FootFlex-app.git`
-2. Install the required dependencies by running: `flutter doctor` 
-3. Run the app using: `Use your preferred Flutter development environment to run the app.`
-
----
-
-## Contributing 🎉
-
-Contributions to the FootFlex app are welcome! Whether you want to add new features, fix bugs, improve the UI/UX, or enhance functionalities, feel free to submit a pull request. Your contributions help make this app even better for our users. 
-
----
-
-## Support 👍
-
-If you encounter any issues, have suggestions, or wish to discuss ideas related to the FootFlex app, don't hesitate to [create an issue](https://github.com/chinmaywali/FootFlex-app/issues) on this repository. Your feedback is valuable to us and contributes to the continual improvement of the app.
-
+ 
+<div align="center">
+<h1>Thank You</h1>
+</div>
 
   
