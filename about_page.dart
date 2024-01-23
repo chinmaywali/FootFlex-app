@@ -62,7 +62,6 @@ class AboutPage extends StatelessWidget {
                 fontStyle: FontStyle.italic,
               ),
             ),
-            // Add any other relevant information or details about your app here.
           ],
         ),
       ),
