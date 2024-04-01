@@ -3,7 +3,7 @@
 <h1 align="center">
 
 <br>  
-FootFlex App  👟
+FootFlex App  👟 
 </h1>
 <h3>◦ A Shoe-shopping App UI</h3>
 <h3>◦ Developed with Dart , Flutter and provider </h3> 
